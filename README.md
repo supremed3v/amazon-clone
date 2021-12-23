@@ -13,3 +13,5 @@ This project is a clone of Amazon Shopping App with Google login/signup authenti
 - Axios
 - Material UI
 - Stripe Payment Gateway
+
+## The official deployed version 🚀 https://clone-7c60d.web.app/
